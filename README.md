@@ -1,5 +1,5 @@
 # Cw8MAgkPCAkABQwCBAMGAw
 FirstRepo
 
-Let's started it.
+Let's get started it.
 
