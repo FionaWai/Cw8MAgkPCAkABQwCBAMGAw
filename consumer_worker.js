@@ -88,7 +88,7 @@ function *connDB(){
  								 });
       					    } 
       					    	
-      					  }, 1000);
+      					  }, 60000);
        			conn.quit;
 				clientC.disconnect;
 			};	
